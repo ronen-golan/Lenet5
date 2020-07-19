@@ -6,7 +6,7 @@ This algorithm was used by banks to identify digits using a NN engine for a 28x2
 ![GitHub Logo](/pics/lenet.jpg)
 
 # Lenet5: Operation list 
-![GitHub Logo](/pics/lenet_ops.jpg.jpg)
+![GitHub Logo](/pics/lenet_ops.jpg)
 
 Thanks
 Ronen Golan
